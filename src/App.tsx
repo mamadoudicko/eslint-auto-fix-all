@@ -1,7 +1,5 @@
+import { add, mul } from "./1operations";
 import { sub } from "./2operations";
-import { add } from "./1operations";
-import { mul } from "./1operations";
-import { div } from "./1operations"; // unused
 
 export const App = () => {
   const a = 1;
